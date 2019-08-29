@@ -1,6 +1,6 @@
-# templastic-python3
+# templastic-python3-django
 
-A repository template for Python projects using Docker & Python 3
+A repository template for Django projects using Docker & Python 3
 
 ## Setup
 
