@@ -21,4 +21,6 @@ A repository template for Django projects using Docker & Python 3
 * Generate requirements: `pip freeze > src/requirements.txt`
 * Create a new Django project: `django-admin startproject my_site`
 * move Django project to `src` folder: `mv my_site/* src/`
+* Enter `src` folder: `cd src`
+* Create a new Django app: `django-admin startapp my_app`
 * Leave virtual env: `deactivate`
